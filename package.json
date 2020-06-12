@@ -1,0 +1,17 @@
+{
+  "name": "wb-microservice",
+  "version": "1.0.0",
+  "description": "Fetches data for Finland, Sweden and Norway from World Bank Indicators API and returns data in JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antti László",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
+  }
+}
