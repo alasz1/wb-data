@@ -4,6 +4,6 @@ Microservice that fetches data for Finland, Sweden and Norway from World Bank In
 
 Current URLs:
 
-/gdp
-/population
+/gdp&nbsp;
+/population&nbsp;
 /gdpchange (in progress)
